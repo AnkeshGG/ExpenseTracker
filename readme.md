@@ -25,7 +25,7 @@ Expense Tracker is a **simple yet powerful** expense management application buil
 
 - 📌 **Programming Language:** Java
 - 📌 **GUI Framework:** Java Swing
-- 📌 **Database:** SQLite (`sqlite-jdbc-x.x.x.jar` required)
+- 📌 **Database:** SQLite (`sqlite-jdbc-3.49.1.0.jar` required)
 - 📌 **Charting Library:** JFreeChart (for visualizing expense data)
 - 📌 **Layout Management:** `GridLayout` and `BoxLayout` for UI structuring
 - 📌 **Event Handling:** ActionListeners for user interactions
