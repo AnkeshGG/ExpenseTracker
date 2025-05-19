@@ -15,7 +15,11 @@ Expense Tracker is a **simple yet powerful** expense management application buil
 
 ## Screenshots
 
-*(Include images of your application's UI here!)*
+![Screenshot 2025-05-19 123623](https://github.com/user-attachments/assets/44be6255-f351-40d0-b250-fce415c414a3)
+![Screenshot 2025-05-19 123752](https://github.com/user-attachments/assets/caa2b5fa-1fb9-431a-a935-68a3ad6ca659)
+![Screenshot 2025-05-19 123837](https://github.com/user-attachments/assets/9293a5da-0025-46cf-8240-314afaaaac52)
+![Screenshot 2025-05-19 123936](https://github.com/user-attachments/assets/600c6402-d9de-4246-8148-d7c85650cbfb)
+![Screenshot 2025-05-19 123945](https://github.com/user-attachments/assets/fbc4b0cb-ed1d-4071-b0ad-b45fd48d3dfc)
 
 ## Technical Details
 
