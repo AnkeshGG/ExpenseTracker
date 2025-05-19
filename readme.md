@@ -82,4 +82,6 @@ SELECT * FROM expenses;
 
 This project was developed by **Ankesh Kumar**, combining UI/UX principles with efficient **backend data management**. It serves as both a learning experience and a practical tool for financial tracking.
 
+---
+
 © 2025 Ankesh Kumar. All rights reserved.
